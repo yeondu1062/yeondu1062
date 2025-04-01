@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=8EC96D&height=250&section=header)
 # **YEONDU1062**
 > 안녕하세요.
 
