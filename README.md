@@ -14,4 +14,4 @@
   <img src="https://img.shields.io/badge/git-F3F3F3.svg?style=for-the-badge&logo=git&logoColor=black" />&nbsp;
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeondu1062&layout=compact&hide_title=true&border_radius=0" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeondu1062&layout=compact&hide_title=true&border_radius=0&hide=html,css,batchfile)
