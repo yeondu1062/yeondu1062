@@ -14,9 +14,9 @@
   <img src="https://img.shields.io/badge/Unity-F7F7F7?style=for-the-badge&logo=unity&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F7F7F7?style=for-the-badge&logo=git&logoColor=black" />
   <br />
-  <img src="https://img.shields.io/badge/Visual Studio Code-F4F4F4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React-F4F4F4?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Visual Studio Code-F7F7F7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-F7F7F7?style=for-the-badge&logo=react&logoColor=black" />
 </div>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeondu1062&layout=compact&hide_title=true&border_radius=0&hide=html,css,batchfile" width="300px"><br />
-<img src="https://github-readme-stats.vercel.app/api?username=yeondu1062&hide_title=true&border_radius=0&hide=issues,contribs&show_icons=true&text_bold=true" width="300px">
+<img src="https://github-readme-stats.vercel.app/api?username=yeondu1062&hide_title=true&border_radius=0&show_icons=true" width="300px">
