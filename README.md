@@ -16,6 +16,8 @@
   <br />
   <img src="https://img.shields.io/badge/Visual Studio Code-F7F7F7?style=for-the-badge" />
   <img src="https://img.shields.io/badge/React-F7F7F7?style=for-the-badge&logo=react&logoColor=black" />
+  <br />
+  <img src="https://img.shields.io/badge/Electron-F7F7F7?style=for-the-badge&logo=electron&logoColor=black" />
 </div>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeondu1062&layout=compact&hide_title=true&border_radius=0&hide=html,css,batchfile" width="300px"><br />
