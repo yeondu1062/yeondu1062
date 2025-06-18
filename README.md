@@ -22,5 +22,3 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeondu1062&layout=compact&hide_title=true&border_radius=0&hide=html,css,batchfile" width="300px"><br />
 <img src="https://github-readme-stats.vercel.app/api?username=yeondu1062&hide_title=true&border_radius=0&show_icons=true" width="300px">
-
-![footer](https://capsule-render.vercel.app/api?type=rect&color=8EC96D&height=5)
